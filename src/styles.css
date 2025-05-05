@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Option {
+  border: 2px solid blue;
+  margin: 2px;
+}
